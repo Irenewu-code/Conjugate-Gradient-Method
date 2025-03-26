@@ -1,2 +1,1 @@
-# Numerical-Analysis
-Conjugate Gradient Method
+# Conjugate Gradient Method
