@@ -1,7 +1,6 @@
 # !/usr/bin/env python3
-# EE4070 Numerical Analysis
-# HW06 Conjugate Gradient Method
-# 110071021, 吳睿芸
+# Numerical Analysis
+# Conjugate Gradient Method
 # Date: 2024/04/15
 
 import numpy as np
